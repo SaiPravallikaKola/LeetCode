@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SaiPravallikaKola/LeetCode/tree/master/0069-sqrtx) |
+| [0342-power-of-four](https://github.com/SaiPravallikaKola/LeetCode/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SaiPravallikaKola/LeetCode/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/SaiPravallikaKola/LeetCode/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +31,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/SaiPravallikaKola/LeetCode/tree/master/0242-valid-anagram) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/SaiPravallikaKola/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
