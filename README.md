@@ -27,6 +27,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/SaiPravallikaKola/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/SaiPravallikaKola/LeetCode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/SaiPravallikaKola/LeetCode/tree/master/0342-power-of-four) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/SaiPravallikaKola/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
