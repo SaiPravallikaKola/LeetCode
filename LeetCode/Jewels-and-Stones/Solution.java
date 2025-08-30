@@ -1,0 +1,1 @@
+return sum([S.count(j) for j in J])
