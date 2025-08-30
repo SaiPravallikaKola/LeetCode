@@ -27,6 +27,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/SaiPravallikaKola/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SaiPravallikaKola/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/SaiPravallikaKola/LeetCode/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -40,5 +41,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/SaiPravallikaKola/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SaiPravallikaKola/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
